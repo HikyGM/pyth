@@ -6,10 +6,3 @@ print()
 
 
 
-
-
-
-fgdshfg
-
-
-
